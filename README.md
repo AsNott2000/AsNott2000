@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-I am Hungarian Senior Software Engineer working at Diligent.<br/>
+I am Turkish student at Istanbul Aydın University. Management information Systems...<br/>
 
-- 🔭 I’m currently working as a .NET Web API developer with MSSQL, Angular and AWS 🚀.
-- 🌱 I’m learning to became an Azure Developer Associate (AZ-204).
-- 👯 I’m looking to collaborate with other Stardew Valley mod developers.
-- 🤔 I’m always looking for help with [UIInfoSuite2](https://github.com/AsNott2000/UIInfoSuite2).
-- 💬 Ask me about coffee, puzzles and .NET.
-- 📚 Fun fact: read 52 books a year... in the last 3 years!
-- ⚡ Fun fact: husband at 24, father at 27.
-- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=Annosz)
+- 🔭 I’m currently working with MSSQL and Python🚀.
+- 🌱 I’m learning to became an Data Analyist.
+- 👯 I'm creating many basic projects  with Yython.
+- 💬 Ask me about coffee, cars and analyisis.
+- 📚 Fun fact: play violin
+- ⚡ Fun fact: I have Lina. Lina is Renault Clio 4 2019
+- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=AsNott2000)
 
 <br>
 
@@ -20,18 +19,15 @@ I am Hungarian Senior Software Engineer working at Diligent.<br/>
 </div>
 
 <div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Annosz&theme=onedark&no-bg=true&no-frame=true" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AsNott2000&theme=onedark&no-bg=true&no-frame=true" />
 </div>
 
 <br>
 
 <!-- SOCIAL PAGES -->
-<div align="center">
-  <a href="https://www.buymeacoffee.com/Annosz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Annosz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-</div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/annosz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/nurullah-coşkun-6b4a49279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>

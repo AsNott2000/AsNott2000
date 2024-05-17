@@ -14,7 +14,7 @@ I am Turkish student at Istanbul Aydın University. Management information Syste
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AsNott2000&show_icons=true&theme=onedark&bg_color=75,9d62bc,b789cd,cfafde,b789cd,9d62bc"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AsNott2000&show_icons=true&theme=highcontrast&bg_color=75,833baa,9d62bc,b789cd,cfafde"/>
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsNott2000&layout=compact&langs_count=7&theme=dark"/>
 </div>
 

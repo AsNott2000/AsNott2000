@@ -1,21 +1,37 @@
-<h1 align="center">Hi 👋, I'm Nurullah</h1>
-<h3 align="center">Management Information Systems student at Istanbul Aydin University.</h3>
+### Hi there 👋
 
-- 🌱 I’m currently learning **C# and other programming languages**
+I am Hungarian Senior Software Engineer working at Diligent.<br/>
 
-- 📫 How to reach me **nurullah.coskun@outlook.com**
+- 🔭 I’m currently working as a .NET Web API developer with MSSQL, Angular and AWS 🚀.
+- 🌱 I’m learning to became an Azure Developer Associate (AZ-204).
+- 👯 I’m looking to collaborate with other Stardew Valley mod developers.
+- 🤔 I’m always looking for help with [UIInfoSuite2](https://github.com/AsNott2000/UIInfoSuite2).
+- 💬 Ask me about coffee, puzzles and .NET.
+- 📚 Fun fact: read 52 books a year... in the last 3 years!
+- ⚡ Fun fact: husband at 24, father at 27.
+- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=Annosz)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nurullah-coşkun-6b4a49279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurullah-coşkun-6b4a49279" height="30" width="40" /></a>
-<a href="https://instagram.com/nurullahcoskuun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuroheimer" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AsNott2000&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsNott2000&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asnott2000&show_icons=true&locale=en&layout=compact" alt="asnott2000" /></p>
+<div align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Annosz&theme=onedark&no-bg=true&no-frame=true" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asnott2000&show_icons=true&locale=en" alt="asnott2000" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asnott2000&" alt="asnott2000" /></p>
+<!-- SOCIAL PAGES -->
+<div align="center">
+  <a href="https://www.buymeacoffee.com/Annosz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Annosz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/annosz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>

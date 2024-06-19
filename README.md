@@ -1,33 +1,30 @@
-### Hi there 👋
+# 💫 About Me:
+- 🔭 I’m currently working with MSSQL and Python🚀.<br>- 🌱 I’m learning to became an Data Analyist.<br>- 👯 I'm creating many basic projects  with Yython.<br>- 💬 Ask me about coffee, cars and analyisis.<br>- 📚 Fun fact: play violin<br>- ⚡ Fun fact: I have Lina. Lina is Renault Clio 4 2019
 
-I am Turkish student at Istanbul Aydın University. Management information Systems...<br/>
 
-- 🔭 I’m currently working with MSSQL and Python🚀.
-- 🌱 I’m learning to became an Data Analyist.
-- 👯 I'm creating many basic projects  with Yython.
-- 💬 Ask me about coffee, cars and analyisis.
-- 📚 Fun fact: play violin
-- ⚡ Fun fact: I have Lina. Lina is Renault Clio 4 2019
-- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=AsNott2000)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nurullahcoskuun/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nurullah-coşkun-6b4a49279/) 
 
-<br>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AsNott2000&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsNott2000&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsNott2000&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- GITHUB STATUS -->
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AsNott2000&show_icons=true&theme=highcontrast&bg_color=45,660099,833baa,9d62bc,b789cd,cfafde"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AsNott2000&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AsNott2000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=AsNott2000&theme=onedark&no-bg=true&no-frame=true" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AsNott2000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- SOCIAL PAGES -->
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=AsNott2000&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nurullah-coşkun-6b4a49279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

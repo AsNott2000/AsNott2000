@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AsNott2000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 "If I were the rain, could I connect to someone's heart like how it binds the sky and the earth, which can never meet forever?"
 
 ### 🔝 Top Contributed Repo

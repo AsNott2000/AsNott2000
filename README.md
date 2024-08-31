@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working with MSSQL and Python🚀.<br>- 🌱 I’m learning to became an Data Analyist.<br>- 👯 I'm creating many basic projects  with Yython.<br>- 💬 Ask me about coffee, cars and analyisis.<br>- 📚 Fun fact: play violin<br>- ⚡ Fun fact: I have Lina. Lina is Renault Clio 4 2019
+- 🔭 I’m currently working with MSSQL and Python🚀.<br>- 🌱 I’m learning to became an Data Analyist.<br>- 👯 I'm creating many basic projects  with Python.<br>- 💬 Ask me about coffee, cars and analyisis.<br>- 📚 Fun fact: play violin<br>- ⚡ Fun fact: I have Lina. Lina is Renault Clio 4 2019
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AsNott2000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quote
-"If I were the rain, could I connect to someone's heart like how it binds the sky and the earth, which can never meet forever?"
+<h2>"If I were the rain, could I connect to someone's heart like how it binds the sky and the earth, which can never meet forever?"</h2>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AsNott2000&limit=5&theme=dark&combine_all_yearly_contributions=true)

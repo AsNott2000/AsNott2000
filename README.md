@@ -44,7 +44,6 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AsNott2000&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsNott2000&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&langs_count=8">

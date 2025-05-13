@@ -1,3 +1,4 @@
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsNott2000&theme=ambient_gradient&hide_border=false)<br/>
 <div style="display: flex; align-items: center; gap: 20px; width: 100%; padding: 20px;">
   <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" style="height: 300px; width: 1000px; object-fit: cover;" />
 </div>
@@ -34,14 +35,12 @@
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="Jupyter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
 </p>
-
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=AsNott2000&theme=ambient_gradient&hide_border=false)<br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AsNott2000&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
     </a>
@@ -55,4 +54,6 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsNott2000&theme=react-dark&bg_color=20232a&hide_border=true">
 </p>
+
 <hr>
+</div>

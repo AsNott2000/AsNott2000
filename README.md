@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; gap: 20px; width: 100%; padding: 20px;">
-  <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" style="height: 300px; width: 750px; object-fit: cover;" />
+  <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" style="height: 300px; width: 1000px; object-fit: cover;" />
 </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -58,5 +58,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsNott2000&theme=react-dark&bg_color=20232a&hide_border=true">
 </p>
 <hr>
-
-<img src="https://raw.githubusercontent.com/AsNott2000/AsNott2000/output/snake.svg" alt="Snake animation" />

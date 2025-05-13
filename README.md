@@ -1,36 +1,62 @@
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nurullahcoskuun/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurullah-coskun-6b4a49279/)
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="43" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="43" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="43" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="43" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgre logo" />
-  <img width="12" />
+<div style="display: flex; align-items: center; gap: 20px; width: 100%; padding: 20px;">
+  <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" style="height: 300px; width: 550px; object-fit: cover;" />
 </div>
-<div align="left">
-  <div style="display: flex; align-items: center;">
-   
-   ![](https://github-readme-stats.vercel.app/api?username=AsNott2000&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=AsNott2000&theme=ambient_gradient&hide_border=false)<br/>
-   ![](https://github-contributor-stats.vercel.app/api?username=AsNott2000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsNott2000&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-   ![](https://github-profile-trophy.vercel.app/?username=AsNott2000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nurullah+Coskun...;Data+Scientist+&+Algorithmic+Manager&center=true&size=30">
+  </a>
+</h1>
+
+<br>
+<p align="center">
+  Hi, I'm Nurullah Coskun, Data Scientist & Sports Analyst from Turkey
+  <br>
+  <br>
+  🔬 Specializing in <strong>Footbal Analysis</strong>, <strong>Motorsports Analysis</strong>, and <strong>Health Systems</strong>
+  <br>
+  💹 Expertise in <strong>StatbombPy</strong>, <strong>Data Scrabing</strong>, <strong>Data Manipulating</strong> and <strong>Health Modelling</strong>
+  <br>
+  🏎️ Developing advanced algorithms for <strong>Formula 1 Analytics</strong>
+  <br>
+  📫 Reach me: <a href="mailto:nurullah.coskun@outlook.com">nurullah.coskun@outlook.com</a>
+</p>
+
+<hr>
+
+<h2 align="center">🔥 Tech Stack 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img title="Pandas" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
+  <code><img title="NumPy" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+  <code><img title="SQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="Jupyter" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
+</p>
+
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=AsNott2000&theme=react&border=61dafb&hide_border=true">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AsNott2000&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+    </a>
   </div>
-</div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsNott2000&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true&langs_count=8">
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsNott2000&theme=react-dark&bg_color=20232a&hide_border=true">
+</p>
+<hr>
 
-### ✍️ Quote
-<h2>"If I were the rain, could I connect to someone's heart like how it binds the sky and the earth, which can never meet forever?"</h2>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/AsNott2000/AsNott2000/output/snake.svg" alt="Snake animation" />

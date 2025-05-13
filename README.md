@@ -1,4 +1,3 @@
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsNott2000&theme=ambient_gradient&hide_border=false)<br/>
 <div style="display: flex; align-items: center; gap: 20px; width: 100%; padding: 20px;">
   <img src="https://y.yarn.co/1bf4f0a9-5ba2-46b2-91e5-ee2256bca74d_text.gif" style="height: 300px; width: 1000px; object-fit: cover;" />
 </div>
